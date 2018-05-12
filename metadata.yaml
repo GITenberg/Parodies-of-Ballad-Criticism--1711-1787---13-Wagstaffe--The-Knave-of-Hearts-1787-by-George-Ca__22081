@@ -1,0 +1,51 @@
+_repo: Parodies-of-Ballad-Criticism--1711-1787---13-Wagstaffe--The-Knave-of-Hearts-1787-by-George-Ca__22081
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Wagstaffe, William
+    aliases:
+    - Wagstaffe, W. (William)
+    - Crispin, Cobbler
+    - Tripe, Andrew
+    - Freeholder
+    birthdate: 1685
+    deathdate: 1725
+    gutenberg_agent_id: '25084'
+    url: http://www.gutenberg.org/2009/agents/25084
+  - agent_name: Canning, George
+    alias: Griffin, Gregory
+    birthdate: 1770
+    deathdate: 1827
+    gutenberg_agent_id: '25085'
+    url: http://www.gutenberg.org/2009/agents/25085
+    wikipedia: http://en.wikipedia.org/wiki/George_Canning
+  editor:
+    agent_name: Wimsatt, William K. (William Kurtz)
+    aliases:
+    - Wimsatt, W. K. (William Kurtz)
+    - Wimsatt, William Kurtz
+    birthdate: 1907
+    deathdate: 1975
+    gutenberg_agent_id: '36521'
+    url: http://www.gutenberg.org/2009/agents/36521
+description: ''
+gutenberg_issued: '2007-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22081'
+  lccn: '57001876'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parodies'
+- !lcsh 'Ballads, English -- England -- History and criticism'
+- !lcc 'PR'
+title: "Parodies of Ballad Criticism (1711-1787)\r\nA Comment Upon the History of\
+  \ Tom Thumb, 1711, by William\r\nWagstaffe; The Knave of Hearts, 1787, by George\
+  \ Canning"
+url: http://www.gutenberg.org/ebooks/22081

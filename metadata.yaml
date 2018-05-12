@@ -32,6 +32,8 @@ creator:
     gutenberg_agent_id: '36521'
     url: http://www.gutenberg.org/2009/agents/36521
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22081#Parodies-of-Ballad-Criticism--1711-1787---13-Wagstaffe--The-Knave-of-Hearts-1787-by-George-Ca_
 gutenberg_issued: '2007-07-16'
 gutenberg_type: Text
 identifiers:
